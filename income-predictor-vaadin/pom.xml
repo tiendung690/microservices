@@ -23,7 +23,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
-		<vaadin.version>8.2.0</vaadin.version>
+		<vaadin.version>19.0.5</vaadin.version>
 		<project.build.finalName>${project.name}</project.build.finalName>
 		<artifact.extension>jar</artifact.extension>
 		<maven-docker-fabric8.version>0.23.0</maven-docker-fabric8.version>
